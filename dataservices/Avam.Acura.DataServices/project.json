@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0-*",
+  "buildOptions": {
+    "debugType": "portable",
+    "emitEntryPoint": true
+  },
+  "dependencies": {},
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "type": "platform",
+          "version": "1.0.0"
+        },
+        "Microsoft.EntityFrameworkCore": "1.0.0",
+        "SapientGuardian.EntityFrameworkCore.MySql": "7.1.6"
+
+      },
+      "imports": "dnxcore50"
+    }
+  }
+}

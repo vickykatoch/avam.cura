@@ -1,0 +1,15 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 18,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "node_modules":true,
+        "**/bin" :true,
+        "**/obj" :true
+    },
+    "editor.quickSuggestions": true,
+    "editor.suggestOnTriggerCharacters": true
+}

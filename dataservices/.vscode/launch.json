@@ -6,7 +6,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceRoot}\\src\\Avam.Acura.DataServices\\bin\\Debug\\netcoreapp1.0\\Avam.Acura.DataServices.dll",
+            "program": "${workspaceRoot}\\src\\Avam.Acura.WebApi\\bin\\Debug\\netcoreapp1.0\\Avam.Acura.WebApi.dll",
             "args": [],
             "cwd": "${workspaceRoot}",
             "externalConsole": false,

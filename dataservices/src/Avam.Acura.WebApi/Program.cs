@@ -1,8 +1,6 @@
 using System;
 using Microsoft.AspNetCore.Hosting;
 
-using Avam.Acura.DataServices;
-
 namespace Avam.Acura.Api
 {
     public class Program

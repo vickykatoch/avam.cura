@@ -1,10 +1,10 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace Avam.Acura.DataServices
 {
-    public class Program
+    public class Data
     {
-        public static void Main(string[] args)
+        public void Show()
         {
             Console.WriteLine("Hello World!");
         }

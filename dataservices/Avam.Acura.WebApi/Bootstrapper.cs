@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace ConsoleApplication
+namespace Avam.Acura.Api
 {
-    public class Program
+    public class Bootstrapper
     {
         public static void Main(string[] args)
         {
